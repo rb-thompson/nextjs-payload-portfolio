@@ -48,7 +48,7 @@ A production-ready portfolio and blog template built with **Next.js 15**, **Payl
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/payload-portfolio-starter.git
+git clone https://github.com/rb-thompson/nextjs-payload-portfolio.git
 cd payload-portfolio-starter
 pnpm install
 ```
@@ -159,7 +159,7 @@ Default admin credentials created by the seed: `admin@example.com` / `changeme12
 
 ### Option A — One-click (recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/payload-portfolio-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/rb-thompson/nextjs-payload-portfolio)
 
 Add your environment variables in the Vercel UI during setup.
 
